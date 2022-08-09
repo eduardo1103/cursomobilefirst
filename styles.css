@@ -212,9 +212,10 @@ html {
     background-repeat: no-repeat;
 }
 .currency-table__date {
-    width: max-content;
+    width: 190px;
     height: 30px;
-    margin: 15px auto 0;
+    margin: 0 auto;
+    margin-top: 15px;
     padding: 8px;
     background-color: var(--softt-orange);
     border-radius: 8px;
